@@ -1,2 +1,2 @@
-# repository1.github.io
+# SRS2698.github.io
 My first repository.
