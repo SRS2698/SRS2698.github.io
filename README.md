@@ -2,7 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/SRS2698/SRS2698.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-  <a href= "index.html"> Click here to go to another page </a>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
